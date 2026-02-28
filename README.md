@@ -79,6 +79,13 @@ Double-click dock_launch.bat    (requires the server to be running)
 - [ ] Direct API connection to SaaS render servers (submit jobs, pull media automatically)
 - [ ] Batch metadata editing view
 - [ ] Timeline view of render job progress across a project
+- [ ] Animation suite with LLM integration
+- [ ] Layer based image editor with generative fill 
+- [ ] Interactive Story Builder with lite interactive minigame overlay amd HTML/JS export
+- [ ] Video Editor module for adjusting ai renders coupled with the other creative tools in this suite
+- [ ] Distribution Assistance for sending content to platforms
+- [ ] Custom UI & Toolkit module for adding scripts, image mini editors
+- [ ] Open Marketplace for sharing tools, scripts and creation templates
 
 ## License
 
